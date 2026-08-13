@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /arigatou.html
+
+Sitemap: https://kuchikomimarketing.com/sitemap.xml
